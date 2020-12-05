@@ -1,0 +1,61 @@
+#home-icon{
+    font-size: 40px;
+    color: #4CAF50;
+}
+#profil-icon{
+    font-size: 40px;
+    color:#4CAF50;
+}
+#healthy-icon{
+    font-size: 40px;
+    color:#4CAF50;
+}
+#exit-icon{
+    font-size: 40px;
+    color: #4CAF50;
+}
+#sign-in{
+    border-color:  #4CAF50;
+    color: #cac9c9;
+}
+#sign-up{
+    border-color:  #4CAF50;
+    color: #cac9c9;
+}
+
+#imagebutton{
+    border-color: #4CAF50
+}
+#home-span{
+    color: #cac9c9
+}
+#profil-span{
+    color: #cac9c9
+}
+#healthy-span{
+    color: #cac9c9
+}
+#articles-span{
+    color: #cac9c9
+}
+#exit-span{
+    color: #cac9c9
+}
+#change-btn{
+    background-color:#4CAF50 ;
+    margin-top: 3;
+}
+#dynamic-second{
+    list-style-image: unset;
+    border: rgb(98, 0, 255);
+
+}
+#imagebutton-second{
+    font-style: italic;
+    background-color: rgb(98, 0, 255);
+
+}
+#select-query{
+    background-color: #383d39 ;
+}
+
